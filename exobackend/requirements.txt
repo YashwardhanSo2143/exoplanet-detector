@@ -8,3 +8,5 @@ matplotlib>=3.4.3
 numpy>=1.21.0
 python-jose[cryptography]  # for JWT tokens
 passlib[bcrypt]  # for password hashing
+
+.venv activate = " & "D:/kanu/FRESH START/NasaBasa/.venv/Scripts/Activate.ps1""
