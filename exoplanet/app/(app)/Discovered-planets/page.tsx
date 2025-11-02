@@ -30,10 +30,10 @@ export default function DiscoveredPlanetsPage() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-[#0B0014] text-white flex flex-col items-center py-10 px-6">
+    <div className="min-h-screen text-white flex flex-col items-center py-10 px-6">
       <Bg />
-      <h1 className="text-3xl md:text-4xl font-semibold mb-8 text-purple-400">
-        🪐 Discovered Planets
+      <h1 className="text-3xl md:text-4xl mb-8 font-serif italic">
+         Discovered Planets
       </h1>
 
       {loading ? (
